@@ -31,3 +31,6 @@
 [submodule "plugins/tmux-fzf"]
 	path = plugins/tmux-fzf
 	url = git@github.com:sainnhe/tmux-fzf.git
+[submodule "plugins/extrakto"]
+	path = plugins/extrakto
+	url = git@github.com:laktak/extrakto.git
