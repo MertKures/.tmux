@@ -28,3 +28,9 @@ mv ~/.tmux/.tmux.conf ~/.tmux.conf
 [tmux-plugins/tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed)
 
 [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
+
+[tmux-logging](https://github.com/tmux-plugins/tmux-logging.git)
+
+[tmux-fzf](https://github.com/sainnhe/tmux-fzf.git)
+
+[laktak/extrakto](https://github.com/laktak/extrakto.git)
