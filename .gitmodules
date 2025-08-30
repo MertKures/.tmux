@@ -28,3 +28,6 @@
 [submodule "plugins/tmux-logging"]
 	path = plugins/tmux-logging
 	url = git@github.com:tmux-plugins/tmux-logging.git
+[submodule "plugins/tmux-fzf"]
+	path = plugins/tmux-fzf
+	url = git@github.com:sainnhe/tmux-fzf.git
