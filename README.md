@@ -5,7 +5,7 @@ A repository for customized tmux workspace
 ## Installation
 
 ```bash
-git clone https://github.com/MertKures/.tmux.git ~/.tmux
+git clone https://github.com/MertKures/.tmux.git ~/.tmux --recursive
 mv ~/.tmux/.tmux.conf ~/.tmux.conf
 ```
 
