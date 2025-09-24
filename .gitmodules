@@ -1,36 +1,36 @@
 [submodule "plugins/tpm"]
-	path = plugins/tpm
-	url = git@github.com:tmux-plugins/tpm
+    path = plugins/tpm
+    url = https://github.com/tmux-plugins/tpm.git
 [submodule "plugins/tmux-sensible"]
-	path = plugins/tmux-sensible
-	url = git@github.com:tmux-plugins/tmux-sensible
+    path = plugins/tmux-sensible
+    url = https://github.com/tmux-plugins/tmux-sensible.git
 [submodule "plugins/tmux-power"]
-	path = plugins/tmux-power
-	url = git@github.com:MertKures/tmux-power
+    path = plugins/tmux-power
+    url = https://github.com/MertKures/tmux-power.git
 [submodule "plugins/tmux-resurrect"]
-	path = plugins/tmux-resurrect
-	url = git@github.com:tmux-plugins/tmux-resurrect
+    path = plugins/tmux-resurrect
+    url = https://github.com/tmux-plugins/tmux-resurrect.git
 [submodule "plugins/tmux-open"]
-	path = plugins/tmux-open
-	url = git@github.com:tmux-plugins/tmux-open
+    path = plugins/tmux-open
+    url = https://github.com/tmux-plugins/tmux-open.git
 [submodule "plugins/tmux-copycat"]
-	path = plugins/tmux-copycat
-	url = git@github.com:tmux-plugins/tmux-copycat
+    path = plugins/tmux-copycat
+    url = https://github.com/tmux-plugins/tmux-copycat.git
 [submodule "plugins/tmux-yank"]
-	path = plugins/tmux-yank
-	url = git@github.com:tmux-plugins/tmux-yank
+    path = plugins/tmux-yank
+    url = https://github.com/tmux-plugins/tmux-yank.git
 [submodule "plugins/tmux-net-speed"]
-	path = plugins/tmux-net-speed
-	url = git@github.com:tmux-plugins/tmux-net-speed
+    path = plugins/tmux-net-speed
+    url = https://github.com/tmux-plugins/tmux-net-speed.git
 [submodule "plugins/tmux-prefix-highlight"]
-	path = plugins/tmux-prefix-highlight
-	url = git@github.com:tmux-plugins/tmux-prefix-highlight
+    path = plugins/tmux-prefix-highlight
+    url = https://github.com/tmux-plugins/tmux-prefix-highlight.git
 [submodule "plugins/tmux-logging"]
-	path = plugins/tmux-logging
-	url = git@github.com:tmux-plugins/tmux-logging.git
+    path = plugins/tmux-logging
+    url = https://github.com/tmux-plugins/tmux-logging.git
 [submodule "plugins/tmux-fzf"]
-	path = plugins/tmux-fzf
-	url = git@github.com:sainnhe/tmux-fzf.git
+    path = plugins/tmux-fzf
+    url = https://github.com/sainnhe/tmux-fzf.git
 [submodule "plugins/extrakto"]
-	path = plugins/extrakto
-	url = git@github.com:laktak/extrakto.git
+    path = plugins/extrakto
+    url = https://github.com/laktak/extrakto.git
